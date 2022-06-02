@@ -4,11 +4,11 @@ body {
 	padding: 1vw;
 	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
 	line-height: 1.25;
-	font-size: 1vw;
+	font-size: 1.1vw;
   width: 100%;
 	}
 
-h1, h2, h3, nav, footer {
+h1, h2, h3, h5, nav, footer {
     text-align: center;
 }
 
@@ -17,6 +17,13 @@ nav {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     padding: 1vw;
+    font-size: 1.5vw;
+}
+
+
+a {
+	text-decoration:  none;
+	color: #003314;
 }
 
 h2 {
@@ -25,8 +32,15 @@ h2 {
 
 h3 {
     font-weight: bold;
-    padding: 1vw;
-    
+    padding: 1vw;    
+   
+}
+h5 {
+    color: #003314;       
+}
+
+strong {
+	color: #003314;
 }
 
 #details {
