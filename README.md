@@ -5,4 +5,4 @@ Hemsidan handlar om den svenska poeten Gustaf Fröding och de böcker som han ha
 
 
 ## Om "the developer"
-Jennie Skynäs har arbetat fram hemsidan utifrån mallen av Wout Dillen. Jennie är en elev vid Högskolan i Borås där hon studerat en master i biblioteks- och informationsvetenskap. 
+Jennie Skynäs har arbetat fram hemsidan utifrån mallen av Wout Dillen. Jennie är en elev vid Högskolan i Borås där hon studerar en master i biblioteks- och informationsvetenskap. 
